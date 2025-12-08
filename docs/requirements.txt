@@ -1,2 +1,3 @@
 mkdocs-material 
 mkdocs-render-swagger-plugin
+urllib3>=2.6.0 # not directly required, pinned by Snyk to avoid a vulnerability
