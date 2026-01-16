@@ -8,7 +8,7 @@ click==8.1.7 ; python_version >= "3.9" and python_version < "4.0"
 colorama==0.4.6 ; python_version >= "3.9" and python_version < "4.0" and (sys_platform == "win32" or platform_system == "Windows")
 deprecated==1.2.14 ; python_version >= "3.9" and python_version < "4.0"
 einops==0.6.1 ; python_version >= "3.9" and python_version < "4.0"
-filelock==3.13.1 ; python_version >= "3.9" and python_version < "4.0"
+filelock==3.20.3 ; python_version >= "3.9" and python_version < "4.0"
 fsspec==2023.10.0 ; python_version >= "3.9" and python_version < "4.0"
 googleapis-common-protos==1.62.0 ; python_version >= "3.9" and python_version < "4.0"
 grpc-interceptor==0.15.4 ; python_version >= "3.9" and python_version < "4.0"
